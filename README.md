@@ -1,3 +1,4 @@
+# Code Clause Internship
 # Personalized-Medicine-Recommending-system
 Medicine is the key to maintain and prolong life. Not all body systems are clinically similar, so the medicine needs to be customized according to the body system of an individual. The ongoing pandemic acts as a burning example as it has been observed that one the set of medicines like Remdisivir, Tocilizumab, etc. works for one category of patients while the same set of medicines cannot prevent another category of patients with almost similar clinical parameters from progressing to severe stage from mild or moderate condition. Personalized medicine can be a solution to this challenge as it has a more “customized” approach. It is also known as precision or individualize or customized medicine.
 
